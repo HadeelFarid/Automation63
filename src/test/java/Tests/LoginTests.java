@@ -82,7 +82,7 @@ public class LoginTests {
     public void closeBrowser()
     {
         driver.quit();
-    }hadeel write
+    }
 
 
 }
